@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(172, 253, 147);
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+a {
+  padding: 15px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+.page-links {
+  display: flex;
+  justify-content: center;
+}
+
+.email-link {
+  padding: 0px;
+}
